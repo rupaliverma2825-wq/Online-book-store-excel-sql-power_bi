@@ -51,7 +51,7 @@ The projet was built using the following tools and technologies:
 
  4) Dashboard image-
 
-   ![Dashboard preview].(https://github.com/rupaliverma2825-wq/Online-book-store-excel-sql-power_bi/blob/main/DASHBOARD%20IMAGE.png)
+   ![Dashboard preview](https://github.com/rupaliverma2825-wq/Online-book-store-excel-sql-power_bi/blob/main/DASHBOARD%20IMAGE.png)
  
 
 
