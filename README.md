@@ -48,6 +48,10 @@ The projet was built using the following tools and technologies:
   🔴Cambodia recorded the highest sales, indicating strong market potential in that region.
   🔴Romance is the highest-selling genre, generating 13,086 in revenue, suggesting a strong customer preference and opportunity for targeted promotions.
   🔴The maximum book price is 49.98, and the minimum is 5.07, reflecting a wide pricing range suitable for different customer budgets.
+
+ 4) Dashboard image-
+
+   ![Dashboard preview].(https://github.com/rupaliverma2825-wq/Online-book-store-excel-sql-power_bi/blob/main/DASHBOARD%20IMAGE.png)
  
 
 
