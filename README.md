@@ -37,19 +37,19 @@ The projet was built using the following tools and technologies:
   KPI Cards: Display Total Sales, Total Quantity, Total Customers, Total Genres, and Number of Authors for quick insights.
   Filters: Genre filter with options like Biography, Fantasy, Mystery, Romance, Fiction, Non-Fiction, and Science Fiction.
  Charts & Visuals:
-    📊 Stacked Column Chart: Top 5 selling books
+    📊 Stacked Column Chart: Top 5 selling books ( Used to visually compare the sales performance of the top 5 books. This chart helps identify which books                                      generate the highest revenue and demand among customers, enabling better decisions related to stock management, marketing focus, and                                promotional strategies.
     
-    📋 Stacked Bar Chart: Top 5 countries by sales
+    📋 Stacked Bar Chart: Top 5 countries by sales (Used to compare sales performance across the top countries clearly and visually. It helps identify which                                   country generates the highest revenue and supports geographic market analysis.)
     
-    🗂️ Clustered Bar Chart: Top 5 cities by sales
+    🗂️ Clustered Bar Chart: Top 5 cities by sales ( Used to compare sales distribution across different cities within the selected countries. It helps understand                                regional performance and guides targeted marketing and distribution planning.)
 
-    🔺 Funnel Chart: Top 5 authors
+    🔺 Funnel Chart: Top 5 authors (Used to highlight and rank authors based on sales. The funnel shape visually emphasizes the most popular authors at the top and                       helps publishers prioritize author promotions.)
     
-    🧠 Stacked Column Chart: Sales by genre
+    🧠 Stacked Column Chart: Sales by genre (Used to analyze genre-wise contribution to total sales. It helps identify the best-performing and least-performing                                   categories for inventory and content strategy.)
     
-    🍩 Donut Chart: Maximum and minimum book prices
+    🍩 Donut Chart: Maximum and minimum book prices (Used to visually showcase the price range and distribution. It helps understand pricing strategy,                                  affordability, and competitive positioning in the market.)
     
-    🔺 Slicers: Filter data by Published Year and Country for detailed analysis
+    🔺 Slicers: Filter data by Published Year and Country for detailed analysis (Used to filter the dashboard data dynamically. They enable users to explore trends                  by year and region, supporting deeper insights and interactive analysis.)
 
  ⚪ Business Insights-
 
