@@ -38,17 +38,11 @@ The projet was built using the following tools and technologies:
   Filters: Genre filter with options like Biography, Fantasy, Mystery, Romance, Fiction, Non-Fiction, and Science Fiction.
  Charts & Visuals:
     📊 Stacked Column Chart: Top 5 selling books
-    
     📋 Stacked Bar Chart: Top 5 countries by sales
-    
     🗂️ Clustered Bar Chart: Top 5 cities by sales
-    
     🔺 Funnel Chart: Top 5 authors
-    
     🧠 Stacked Column Chart: Sales by genre
-    
     🍩 Donut Chart: Maximum and minimum book prices
-    
     🔺 Slicers: Filter data by Published Year and Country for detailed analysis
 
  ⚪ Business Insights-
